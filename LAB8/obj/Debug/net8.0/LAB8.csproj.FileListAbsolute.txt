@@ -1,0 +1,15 @@
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\bin\Debug\net8.0\LAB8.exe
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\bin\Debug\net8.0\LAB8.deps.json
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\bin\Debug\net8.0\LAB8.runtimeconfig.json
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\bin\Debug\net8.0\LAB8.dll
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\bin\Debug\net8.0\LAB8.pdb
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.AssemblyInfoInputs.cache
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.AssemblyInfo.cs
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.csproj.CoreCompileInputs.cache
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.sourcelink.json
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.dll
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\refint\LAB8.dll
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.pdb
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\LAB8.genruntimeconfig.cache
+D:\FPT\SOF3042-Kiem_thu_NC\LAB\LAB8\LAB8\obj\Debug\net8.0\ref\LAB8.dll
